@@ -6,7 +6,7 @@
       "Ильинский Никита",
       "Дехтеренко Дмитрий",
       "Иванов Владимир",
-      "Фамилия Имя 4",
+      "Босу Луис",
       "Фамилия Имя 5"
     ],
     "concepts": [
@@ -98,7 +98,7 @@
         "name": "resume",
         "file": "WEB/8.2_future/choosing_a_career_path/articles/resume.md",
         "wikidata_id": "Q186649",
-        "author": "Фамилия Имя 4"
+        "author": "Босу Луис"
       },
       {
         "id": "WEB/8.2_future/choosing_a_career_path/articles",
@@ -107,7 +107,7 @@
         "name": "interview",
         "file": "WEB/8.2_future/choosing_a_career_path/articles/interview.md",
         "wikidata_id": "Q178685",
-        "author": "Фамилия Имя 4"
+        "author": "Босу Луис"
       },
       {
         "id": "WEB/8.2_future/choosing_a_career_path/articles",
@@ -116,7 +116,7 @@
         "name": "salary",
         "file": "WEB/8.2_future/choosing_a_career_path/articles/salary.md",
         "wikidata_id": "Q178631",
-        "author": "Фамилия Имя 4"
+        "author": "Босу Луис"
       },
       {
         "id": "WEB/8.2_future/choosing_a_career_path/articles",
